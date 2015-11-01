@@ -1,8 +1,8 @@
 
 public class Cachorro extends Animal{
 
-	public Cachorro(String raca, double peso, double idade) {
-		super(raca, peso, idade);
+	public Cachorro(String nome,String raca, double peso, double idade) {
+		super(nome, raca, peso, idade);
 		// TODO Auto-generated constructor stub
 	}
 
